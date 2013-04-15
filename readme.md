@@ -1,0 +1,1 @@
+A collection of settings files for Windows based development.
